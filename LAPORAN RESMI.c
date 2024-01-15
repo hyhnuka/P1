@@ -1,4 +1,4 @@
-//D. LAPORAN RESMI
+//D. LAPORAN RESMI P1_1
 //2a.
 /*
 #include <stdio.h>
